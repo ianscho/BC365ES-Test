@@ -5,6 +5,7 @@ tableextension 50101 ACTCustomer extends Customer
     {
         field(50000; ACTClassification; Option)
         {
+            //Pruebas
             DataClassification = CustomerContent;
             //Caption =ENU = 'Classification',ESP = 'Clasificación';
             Caption='Classification';
