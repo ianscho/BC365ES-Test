@@ -7,7 +7,7 @@
             "name": "BC365ES",
             "server": "http://BC365ES/",
             "serverInstance": "NAV",
-            "authentication": "Windows",
+            "authentication": "UserPassword",
             "startupObjectId": 21,
             "startupObjectType": "Page"
         }
