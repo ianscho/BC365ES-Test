@@ -1,0 +1,27 @@
+{
+  "id": "056c8848-454d-4141-b06a-c90b94bb6dc9",
+  "name": "Pruebas - Actio",
+  "publisher": "ACTIO Procesos y Tecnología S.L.",
+  "brief": "Pruebas - Actio Procesos y Tecnología",
+  "description": "Pruebas ischofield@actiobp.com",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://www.actiobp.com/",
+  "url": "https://www.actiobp.com/",
+  "logo": "./resources/favicon-114x114.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+
+  ,"showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ]
+}
