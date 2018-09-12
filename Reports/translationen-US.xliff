@@ -1,142 +1,139 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en-US" original="Pruebas - Actio">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
     <body>
       <group id="body">
-        <trans-unit id="Report 3809972069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cliente - Movimientos</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Report 3809972069 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
+          <target>Options</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control Options - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 387054463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Show Amounts in LCY</source>
+          <target>Show Amounts in LCY</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control ShowAmountsInLCY - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 387054463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if the reported amounts are shown in the local currency.</source>
+          <target>Specifies if the reported amounts are shown in the local currency.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control ShowAmountsInLCY - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 405025560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New Page per Customer</source>
+          <target>New Page per Customer</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control NewPageperCustomer - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 405025560 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if each customer's information is printed on a new page if you have chosen two or more customers to be included in the report.</source>
+          <target>Specifies if each customer's information is printed on a new page if you have chosen two or more customers to be included in the report.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control NewPageperCustomer - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 24972282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Exclude Customers That Have a Balance Only</source>
+          <target>Exclude Customers That Have a Balance Only</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control ExcludeCustHaveaBalanceOnly - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - Control 24972282 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if you do not want the report to include entries for customers that have a balance but do not have a net change during the selected time period.</source>
+          <target>Specifies if you do not want the report to include entries for customers that have a balance but do not have a net change during the selected time period.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - Control ExcludeCustHaveaBalanceOnly - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
           <source>Period: %1</source>
+          <target>Period: %1</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType Text000</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 3604891208" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer - Detail Trial Bal.</source>
+          <target>Customer - Detail Trial Bal.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CustomerDetailTrialBalCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
           <source>Page</source>
+          <target>Page</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CurrReportPageNoCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 892770887" size-unit="char" translate="yes" xml:space="preserve">
           <source>All amounts are in LCY</source>
+          <target>All amounts are in LCY</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType AllamountsareinLCYCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 2344026547" size-unit="char" translate="yes" xml:space="preserve">
           <source>This report also includes customers that only have balances.</source>
+          <target>This report also includes customers that only have balances.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType NotesLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 805644428" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posting Date</source>
+          <target>Posting Date</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CustLedgerEntryPostingDateCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 175005805" size-unit="char" translate="yes" xml:space="preserve">
           <source>Document Type</source>
+          <target>Document Type</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CustLedgerEntryDocumentTypeCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 1057048686" size-unit="char" translate="yes" xml:space="preserve">
           <source>Debit</source>
+          <target>Debit</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType DebitCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 1535750739" size-unit="char" translate="yes" xml:space="preserve">
           <source>Credit</source>
+          <target>Credit</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CreditCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 1103485727" size-unit="char" translate="yes" xml:space="preserve">
           <source>Balance (LCY)</source>
+          <target>Balance (LCY)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType CustBalanceLCYCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 3869361220" size-unit="char" translate="yes" xml:space="preserve">
           <source>Adj. of Opening Balance</source>
+          <target>Adj. of Opening Balance</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType AdjofOpeningBalanceCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 4023116080" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total (LCY) Before Period</source>
+          <target>Total (LCY) Before Period</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType TotalLCYBeforePeriodCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 2679186772" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total (LCY)</source>
+          <target>Total (LCY)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType TotalLCYCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 146247374" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total Adj. of Opening Balance</source>
+          <target>Total Adj. of Opening Balance</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType TotalAdjofOpeningBalanceCaptionLbl</note>
         </trans-unit>
         <trans-unit id="Report 3809972069 - NamedType 4013601236" size-unit="char" translate="yes" xml:space="preserve">
           <source>External Doc. No.</source>
+          <target>External Doc. No.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report ACTCustomer - Detail Trial Bal - NamedType ExternalDocNoCaptionLbl</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2650293062 - Field 614843500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Classification</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ACTCustomer - Field ACTClassification - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2650293062 - Field 614843500 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
-          <source> ,High,Medium,Low</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ACTCustomer - Field ACTClassification - Property OptionCaption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2782742700 - Field 614843500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Classification</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ACTCust. Ledger Entry - Field ACTClassification - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2782742700 - Field 614843500 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
-          <source> ,High,Medium,Low</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ACTCust. Ledger Entry - Field ACTClassification - Property OptionCaption</note>
         </trans-unit>
       </group>
     </body>
